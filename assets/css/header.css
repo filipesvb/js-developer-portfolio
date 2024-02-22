@@ -1,3 +1,4 @@
+
 .header {
     display: flex;
     flex-direction: column;
@@ -15,7 +16,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('../img/icons/header.svg');
+    background-image:url('../img/icons/dots.svg');
 }
 
 .header .photo {
@@ -25,57 +26,45 @@
 }
 
 .header .title {
-    font-family: 'Neue Machina';
     text-align: center;
+    font-family: 'Neue Machina';
 }
 
-.information {
+.header .information {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
     width: 100%;
+    align-items: flex-start;
 }
-
-.information p {
+.header .information > p {
     display: flex;
     flex-direction: row;
     align-items: center;
     margin: .5rem;
     font-size: 1.125rem;
 }
-
-.information p::before {
+.header .information > p::before {
     content: '';
     display: inline-block;
     width: 1rem;
     height: 1rem;
-    background-repeat: no-repeat;
+    background-position: center;
     background-size: contain;
+    background-repeat: no-repeat;
     margin-right: .5rem;
 }
 
-.information .job::before {
-    background-image: url('../img/icons/job.svg');
-}
+.header .information .job::before {background-image: url('../img/icons/job.svg')}
+.header .information .location::before {background-image: url('../img/icons/location.svg')}
+.header .information .email::before {background-image: url('../img/icons/email.svg')}
+.header .information .number::before {background-image: url('../img/icons/number.svg')}
 
-.information .location::before {
-    background-image: url('../img/icons/location.svg');
-}
-
-.information .email::before {
-    background-image: url('../img/icons/email.svg');
-}
-
-.information .phone::before {
-    background-image: url('../img/icons/phone.svg');
-}
-
-@media only screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
     .header {
         display: grid;
         grid-template-areas:
-            "photo title"
-            "photo information"
+        "photo title"
+        "photo information"
         ;
     }
 
@@ -83,14 +72,13 @@
         grid-area: photo;
         margin: 0 auto;
     }
-
     .header .title {
         grid-area: title;
-        text-align: start;
+        text-align: left;
         max-width: 210px;
     }
-
     .header .information {
         grid-area: information;
     }
+    
 }
