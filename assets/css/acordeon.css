@@ -25,6 +25,7 @@
     font-size: 1.5rem;
     font-weight: 700;
     border: none;
+    border-radius: 1rem;
 }
 
 .acordeon .trigger h2 {
