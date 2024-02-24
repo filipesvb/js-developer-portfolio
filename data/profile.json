@@ -45,13 +45,28 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfólio",
+      "url": "https://github.com/filipesvb/js-developer-portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Portifólio de demonstração de manipulação da DOM com Javascript",
+      "url": "https://github.com/filipesvb/DOMmanipulation",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de um blog com Angular",
+      "url": "https://github.com/filipesvb/angular-blog",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de um clone do quiz do Buzzfeed",
+      "url": "https://github.com/filipesvb/clone_Buzzfeed",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/filipesvb/js-developer-pokedex",
       "github": true
     }
   ],
