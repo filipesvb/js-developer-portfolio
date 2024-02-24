@@ -1,0 +1,14 @@
+
+main footer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1rem;
+}
+
+main footer img {
+    max-width: 80px;
+    max-height: 80px;
+}
