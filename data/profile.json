@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/mainassets/img/icons/technologies/html.png"
+        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/main/assets/img/icons/technologies/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/mainassets/img/icons/technologies/css.png"
+        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/main/assets/img/icons/technologies/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/mainassets/img/icons/technologies/js.png"
+        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/main/assets/img/icons/technologies/js.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/mainassets/img/icons/technologies/git.png"
+        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/main/assets/img/icons/technologies/git.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/mainassets/img/icons/technologies/angular.png"
+        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/main/assets/img/icons/technologies/angular.png"
       }
     ],
     "softSkills": [
