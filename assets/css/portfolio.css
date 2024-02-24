@@ -30,7 +30,7 @@
     display: inline-block;
     width: 1.25rem;
     height: 1.25rem;
-    background-image: url('/assets/img/icons/github.svg');
+    background-image: url('../img/icons/github.svg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

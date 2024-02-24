@@ -16,7 +16,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image:url('/assets/img/icons/dots.svg');
+    background-image:url('../img/icons/dots.svg');
 }
 
 .header .photo {
@@ -54,10 +54,10 @@
     margin-right: .5rem;
 }
 
-.header .information .job::before {background-image: url('/assets/img/icons/job.svg')}
-.header .information .location::before {background-image: url('/assets/img/icons/location.svg')}
-.header .information .email::before {background-image: url('/assets/img/icons/email.svg')}
-.header .information .phone::before {background-image: url('/assets/img/icons/number.svg')}
+.header .information .job::before {background-image: url('../img/icons/job.svg')}
+.header .information .location::before {background-image: url('../img/icons/location.svg')}
+.header .information .email::before {background-image: url('../img/icons/email.svg')}
+.header .information .phone::before {background-image: url('../img/icons/number.svg')}
 
 @media screen and (min-width: 768px) {
     .header {
