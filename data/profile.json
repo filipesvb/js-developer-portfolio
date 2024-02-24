@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "Filipe A. S. Vilas Bôas",
+  "photo": "https://avatars.githubusercontent.com/u/59072469?s=400&u=f4da27994d53da93bb5a4254745ddc64cf5504be&v=4",
+  "job": "Junior Developer",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(19) 99734-0189",
+  "email": "fvb.boas@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -34,8 +34,10 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Carisma",
+      "Determinação",
       "Trabalho em equipe",
+      "Facilidade de aprendizado",
       "Flexibilidade",
       "Organização"
     ]
@@ -43,7 +45,6 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
     "Italiano (iniciante)"
   ],
   "portfolio": [
