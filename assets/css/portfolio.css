@@ -28,8 +28,8 @@
 .portfolio li h3.github::before {
     content: '';
     display: inline-block;
-    width: 1rem;
-    height: 1rem;
+    width: 1.25rem;
+    height: 1.25rem;
     background-image: url('../img/icons/github.svg');
     background-size: contain;
     background-repeat: no-repeat;
@@ -37,3 +37,6 @@
     margin-right: .5rem;
 }
 
+.portfolio li a {
+    line-break: anywhere;
+}

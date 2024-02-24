@@ -34,6 +34,7 @@ a:hover {
 .main::after {
     content: '';
     position: fixed;
+    display: inline-block;
     width: 140vw;
     height: 100vh;
     background-image: url('../img/background-top.svg');
@@ -45,6 +46,7 @@ a:hover {
 }
 .main::after {
     background-image: url('../img/background-bottom.svg');
+    display: inline-block;
     top: auto;
     left: auto;
     bottom: 0;
