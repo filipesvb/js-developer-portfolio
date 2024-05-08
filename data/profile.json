@@ -1,8 +1,8 @@
 {
   "name": "Filipe A. S. Vilas Bôas",
   "photo": "https://avatars.githubusercontent.com/u/59072469?s=400&u=f4da27994d53da93bb5a4254745ddc64cf5504be&v=4",
-  "job": "Junior Developer",
-  "location": "São Paulo - SP",
+  "job": "Junior Front-end Developer",
+  "location": "Amparo - SP",
   "phone": "(19) 99734-0189",
   "email": "fvb.boas@gmail.com",
   "skills": {
@@ -23,17 +23,13 @@
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/main/assets/img/icons/technologies/git.png"
       },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/filipesvb/js-developer-portfolio/main/assets/img/icons/technologies/angular.png"
-      }
     ],
     "softSkills": [
-      "Empatia",
+      "Educação",
       "Carisma",
-      "Determinação",
+      "Comunicação",
       "Trabalho em equipe",
-      "Facilidade de aprendizado",
+      "Raciocínio lógico",
       "Flexibilidade",
       "Organização"
     ]
@@ -41,31 +37,31 @@
   "languages": [
     "Português BR",
     "Inglês (Fluente)",
-    "Italiano (iniciante)"
+    "Alemão (iniciante)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfólio",
+      "name": "Portfólio HTML | CSS | Javascript. DIO",
       "url": "https://github.com/filipesvb/js-developer-portfolio",
       "github": true
     },
     {
-      "name": "Portifólio de demonstração de manipulação da DOM com Javascript",
+      "name": "Demonstração de manipulação da DOM com Javascript",
       "url": "https://github.com/filipesvb/DOMmanipulation",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de um blog com Angular",
+      "name": "Protótipo de blog com Angular | HTML | CSS | Typescript",
       "url": "https://github.com/filipesvb/angular-blog",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de um clone do quiz do Buzzfeed",
+      "name": "Clone Quiz Buzzfeed com Angular | HTML | CSS | Typescript",
       "url": "https://github.com/filipesvb/clone_Buzzfeed",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Pokedéx criada com HTML | CSS | Javascript",
       "url": "https://github.com/filipesvb/js-developer-pokedex",
       "github": true
     }
@@ -73,7 +69,7 @@
   "professionalExperience": [
     {
       "name": "Jovem Aprendiz - Assistente Administrativo / YPÊ (Química Amparo)",
-      "period": "Nov 2019 - Oct 2020",
+      "period": "Nov 2019 - Jul 2020",
       "description": "Experiência incrível ter trabalhado no R.H de uma empresa tão grande, no qual pude aprender muito, tanto no âmbito das habilidades interpessoais, quanto no das habilidades individuais."
     }
   ]
