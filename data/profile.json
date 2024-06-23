@@ -1,7 +1,7 @@
 {
   "name": "Filipe A. S. Vilas Bôas",
   "photo": "https://avatars.githubusercontent.com/u/59072469?s=400&u=f4da27994d53da93bb5a4254745ddc64cf5504be&v=4",
-  "job": "Junior Front-end Developer",
+  "job": "Developer",
   "location": "Amparo - SP",
   "phone": "(19) 99734-0189",
   "email": "fvb.boas@gmail.com",
@@ -36,7 +36,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (Fluente)",
+    "Inglês (Avançado)",
     "Alemão (iniciante)"
   ],
   "portfolio": [
@@ -67,6 +67,11 @@
     }
   ],
   "professionalExperience": [
+    {
+      "name": "Controlador de Acesso na Ypê - Verzani & Sandrini",
+      "period": "Mai 2024 - atualmente",
+      "description": "Como Controlador de Acesso nas portarias da Ypê eu administro a entrada e saída de funcionários, assim como resolvo possíveis bloqueios e travamentos em relação ao crachá e ao horário dos colaboradores. Além disso, lido com a entrada e saída de caminhões no Centro de Distribuição da empresa, verificando bloqueios dos motoristas, irregularidades na CNH e notas de pesagem."
+    },
     {
       "name": "Jovem Aprendiz - Assistente Administrativo / YPÊ (Química Amparo)",
       "period": "Nov 2019 - Jul 2020",
